@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 
 env:
-  PythonVersion: 3.12
+  PythonVersion: 3.8.13
 
 jobs:
   python-ci:
